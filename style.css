@@ -1,6 +1,6 @@
 *{
-margin: 0;
-padding: 0; 
+margin: auto;
+padding: auto; 
 }
 
 html {
@@ -11,8 +11,4 @@ html {
 
  #dogImage{
   display: grid;
-}
-
-#btn{
-  margin: 100px;
 }
