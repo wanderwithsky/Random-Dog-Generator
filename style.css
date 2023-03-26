@@ -10,5 +10,5 @@ html {
 }
 
  #dogImage{
-  display: grid;
+  display: inline;
 }
