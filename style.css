@@ -12,3 +12,7 @@ html {
  #dogImage{
   display: grid;
 }
+
+button{
+  margin: 100px;
+}
